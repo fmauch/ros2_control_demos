@@ -48,6 +48,8 @@ The following examples are part of this demo repository:
 
 * Example 9: "Gazebo Classic and Gazebo Sim (tba.)"
 
+* Example 10: "Deactivating command interfaces"
+
 ## Getting started
 
 The repository is structured into `example_XY` folders that fully contained packages with names `ros2_control_demos_example_XY`.
